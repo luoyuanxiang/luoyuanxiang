@@ -7,7 +7,7 @@
     </a>
   </div>
   <!-- knock code pictures 敲代码的图片 -->
-<a href="https://luoyuanxiang.top/" target="_blank"><img align="right" src="https://github-readme-stats.vercel.app/api?username=luoyuanxiang&show_icons=true&count_private=false&theme=vue-dark" /></a> <br>
+<a href="https://luoyuanxiang.top/" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=luoyuanxiang&show_icons=true&count_private=false&theme=vue-dark" /></a> <br>
   <!-- profile logo 个人资料徽标 -->
   <div align="center">
     <a href="https://luoyuanxiang.top"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
