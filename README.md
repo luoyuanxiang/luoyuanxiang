@@ -3,11 +3,12 @@
   <!-- dynamic typing effect 动态打字效果 -->
   <div align="center">
     <a href="https://luoyuanxiang.top/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=println(%22Hello%2C%20World%22);L&center=true&size=27" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=println(%22Hello%2C%20World%22)&center=true&size=27" alt="Typing SVG" />
     </a>
   </div>
 
   <!-- knock code pictures 敲代码的图片 -->
+
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /><br>
 
   <!-- profile logo 个人资料徽标 -->
@@ -19,9 +20,12 @@
     <!-- visitor statistics logo 访问量统计徽标 -->
     <img src="https://komarev.com/ghpvc/?username=luoyuanxiang&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
+<a href="https://luoyuanxiang.top/" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=luoyuanxiang&show_icons=true&count_private=false&theme=vue-dark"  alt="https://luoyuanxiang.top"/>
+</a>
 <p><b>Technology has the power to make the world a better place</b></p>
 </div>
 
 ## Hi! Nice to meet you! 👋
 
-<a href="https://https://luoyuanxiang.top/" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=luoyuanxiang&show_icons=true&count_private=false&theme=vue-dark" /></a>
+
