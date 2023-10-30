@@ -25,7 +25,3 @@
 ## Hi! Nice to meet you! 👋
 
 <a href="https://https://luoyuanxiang.top/" target="_blank"><img align="right" src="https://github-readme-stats.vercel.app/api?username=luoyuanxiang&show_icons=true&count_private=false&theme=vue-dark" /></a>
-
-I'm a backend developer
-
-My Website: [luoyuanxiang.top](https://luoyuanxiang.top)
