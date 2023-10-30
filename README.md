@@ -1,4 +1,9 @@
+## Hi! Nice to meet you! 👋
 <div align="center">
+
+<a href="https://luoyuanxiang.top/" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=luoyuanxiang&show_icons=true&count_private=false&theme=vue-dark"  alt="https://luoyuanxiang.top"/>
+</a>
 
   <!-- dynamic typing effect 动态打字效果 -->
   <div align="center">
@@ -20,12 +25,7 @@
     <!-- visitor statistics logo 访问量统计徽标 -->
     <img src="https://komarev.com/ghpvc/?username=luoyuanxiang&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
-<a href="https://luoyuanxiang.top/" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=luoyuanxiang&show_icons=true&count_private=false&theme=vue-dark"  alt="https://luoyuanxiang.top"/>
-</a>
 <p><b>Technology has the power to make the world a better place</b></p>
 </div>
-
-## Hi! Nice to meet you! 👋
 
 
